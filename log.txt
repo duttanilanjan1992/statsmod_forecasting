@@ -1,34 +1,34 @@
 Not enough data to forecast for Vendor: A in Geo-region:Brazil
-Forecasted for Vendor: A in Geo-region:Caribbean
-Forecasted for Vendor: A in Geo-region:US - East
-Forecasted for Vendor: A in Geo-region:US - Gulf
-Forecasted for Vendor: A in Geo-region:US - Mid-
-Forecasted for Vendor: A in Geo-region:US - West
 Not enough data to forecast for Vendor: B in Geo-region:Caribbean
 Not enough data to forecast for Vendor: B in Geo-region:Central A
 Not enough data to forecast for Vendor: B in Geo-region:South Ame
-Forecasted for Vendor: B in Geo-region:US - East
-Forecasted for Vendor: B in Geo-region:US - Gulf
-Forecasted for Vendor: B in Geo-region:US - Mid-
+Forecasted for Vendor: A in Geo-region:Caribbean
 Forecasted for Vendor: B in Geo-region:US - West
+Forecasted for Vendor: A in Geo-region:US - Gulf
+Forecasted for Vendor: B in Geo-region:US - East
 Forecasted for Vendor: C in Geo-region:Brazil
+Forecasted for Vendor: A in Geo-region:US - East
+Forecasted for Vendor: A in Geo-region:US - Mid-
+Forecasted for Vendor: B in Geo-region:US - Gulf
 Forecasted for Vendor: C in Geo-region:Caribbean
+Forecasted for Vendor: A in Geo-region:US - West
 Forecasted for Vendor: C in Geo-region:Central A
-Not enough data to forecast for Vendor: C in Geo-region:South Ame
-Forecasted for Vendor: C in Geo-region:US - East
-Forecasted for Vendor: C in Geo-region:US - Gulf
-Forecasted for Vendor: C in Geo-region:US - Mid-
-Forecasted for Vendor: C in Geo-region:US - West
 Not enough data to forecast for Vendor: D in Geo-region:Brazil
+Not enough data to forecast for Vendor: C in Geo-region:South Ame
 Not enough data to forecast for Vendor: D in Geo-region:Canada
 Not enough data to forecast for Vendor: D in Geo-region:Caribbean
 Not enough data to forecast for Vendor: D in Geo-region:South Ame
+Forecasted for Vendor: B in Geo-region:US - Mid-
+Forecasted for Vendor: C in Geo-region:US - Gulf
+Forecasted for Vendor: C in Geo-region:US - East
 Forecasted for Vendor: D in Geo-region:US - Gulf
-Forecasted for Vendor: D in Geo-region:US - Mid-
 Forecasted for Vendor: D in Geo-region:US - West
 Not enough data to forecast for Vendor: E in Geo-region:Brazil
 Not enough data to forecast for Vendor: E in Geo-region:South Ame
+Forecasted for Vendor: C in Geo-region:US - Mid-
 Forecasted for Vendor: E in Geo-region:US - East
+Forecasted for Vendor: D in Geo-region:US - Mid-
+Forecasted for Vendor: F in Geo-region:US - Gulf
+Forecasted for Vendor: C in Geo-region:US - West
 Forecasted for Vendor: E in Geo-region:US - Gulf
 Forecasted for Vendor: E in Geo-region:US - Mid-
-Forecasted for Vendor: F in Geo-region:US - Gulf
